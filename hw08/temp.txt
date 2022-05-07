@@ -1,0 +1,4 @@
+insert into table(col1, col2) values(, ), (, );
+insert into table(col1) select * from table2;
+update table set col=... where  ...;
+delete from table where ...;
